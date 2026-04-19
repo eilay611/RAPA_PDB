@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PlotTools" />
+          <option value="DataTools" />
+          <option value="FileTools" />
+          <option value="SETE" />
+          <option value="hydrophobic_moment" />
+          <option value="coloring" />
+          <option value="contacts_between_spike_to_antibodies_pymol" />
+          <option value="pic" />
+          <option value="StatsTools" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

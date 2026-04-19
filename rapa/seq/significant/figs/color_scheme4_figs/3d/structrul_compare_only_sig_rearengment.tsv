@@ -1,0 +1,9 @@
+	H1	H3	H5	Vie_N1
+sasa_rapadead_vs_all	2.606_0.009167		3.107_0.001892	
+conservation_dead_vs_all	2.838_0.00454			4.997_1e-06
+sasa_rapalive_vs_all		-2.084_0.037122		
+conservation_live_vs_all		3.641_0.000272	2.249_0.024533	1.983_0.047414
+conservation_rapalive_vs_all		-2.784_0.005363		
+conservation_pbslive_vs_all		-3.409_0.000653	2.606_0.009149	-2.102_0.035514
+conservation_rapadead_vs_all			3.611_0.000305	
+sasa_dead_vs_all				2.413_0.015842
